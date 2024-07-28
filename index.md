@@ -11,8 +11,6 @@ title: Home
 
 ## About Me
 
-Greetings!
-
 I'm an AI enthusiast and Machine Learning Engineer. My fascination with Machine Learning, Deep Learning, NLP, and AI ignited during my Masters, and I've been delving deeper ever since.
 
 Crafting intelligent systems that harness data's potential and unraveling the magic of Machine Learning and Deep Learning keep me spellbound. In the world of NLP, I constantly experiment with top-tier models to decipher human language's complexities.
