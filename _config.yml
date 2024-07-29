@@ -28,7 +28,7 @@ url: "https://jyotsnaambekar.github.io/" # the base hostname & protocol for your
 github_username:  JyotsnaAmbekar
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: minima
 markdown: kramdown
 highlighter: rouge
 plugins:
