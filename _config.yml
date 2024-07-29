@@ -28,7 +28,7 @@ url: "https://jyotsnaambekar.github.io/" # the base hostname & protocol for your
 github_username:  JyotsnaAmbekar
 
 # Build settings
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 markdown: kramdown
 highlighter: rouge
 plugins:
@@ -40,7 +40,11 @@ plugins:
 header_pages:
   - index.md
   - blog.md
+  - projects.md
+  - resume.md
 
+# Enable dark mode
+minimal_mistakes_skin: "dark"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
