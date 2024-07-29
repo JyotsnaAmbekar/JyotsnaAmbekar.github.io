@@ -44,7 +44,7 @@ header_pages:
   - resume.md
 
 # Enable dark mode
-minimal_mistakes_skin: "dark"
+# minimal_mistakes_skin: "dark"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
