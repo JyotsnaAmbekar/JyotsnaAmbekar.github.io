@@ -43,11 +43,26 @@ header_pages:
   - projects.md
   - resume.md
 
-head:
-  - path: /assets/css/dark-mode.css
-  - path: /assets/js/dark-mode.js
+# Inject navigation with the dark mode toggle button
 
-  
+# defaults:
+#   - scope:
+#       path: ""
+#       type: "posts"
+#     values:
+#       layout: "post"
+#   - scope:
+#       path: ""
+#       type: "pages"
+#     values:
+#       layout: "page"
+
+
+# head:
+#   - path: /assets/css/dark-mode.css
+#   - path: /assets/js/dark-mode.js
+
+
 # Enable dark mode
 # minimal_mistakes_skin: "dark"
 
