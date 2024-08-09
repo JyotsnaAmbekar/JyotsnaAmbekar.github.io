@@ -43,6 +43,11 @@ header_pages:
   - projects.md
   - resume.md
 
+head:
+  - path: /assets/css/dark-mode.css
+  - path: /assets/js/dark-mode.js
+
+  
 # Enable dark mode
 # minimal_mistakes_skin: "dark"
 

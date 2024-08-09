@@ -4,7 +4,9 @@
 
 layout: home
 title: Home
+permalink: /
 ---
+
 
 
 # Hello, I'm Jyotsna Ambekar 👋
@@ -25,4 +27,6 @@ Join me on this AI odyssey as we decode the universe's enigmas together. 🚀�
 
 Beyond code, I find solace in painting and globetrotting, enriching my approach to problem-solving. As a strong believer in spirituality, I connect the unseen dots.
 
-
+<button id="dark-mode-toggle" aria-label="Toggle Dark Mode" onclick="toggleDarkMode()">
+  Toggle Dark Mode
+</button>
